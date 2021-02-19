@@ -8,7 +8,8 @@ const TextDiv = styled.div `
     padding: 1rem 1rem 1rem 1rem;
     border-radius: 10px;
     color:  #36454f;
-    max-with: 110%;
+    max-width: 110%;
+    min-width: 110em;
 `;
 
 const Styledh3 = styled.h3`
